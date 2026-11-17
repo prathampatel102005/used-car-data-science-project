@@ -124,4 +124,4 @@ Open `tableau/used_car_analysis_dashboard.twbx` with Tableau Desktop or Tableau 
 
 ## Author
 
-Add your name, LinkedIn URL, and GitHub profile URL here.
+Pratham Patel, LinkedIn:- https://www.linkedin.com/in/pratham-patel-a00363413/, and GitHub:- .
