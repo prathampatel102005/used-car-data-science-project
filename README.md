@@ -124,4 +124,4 @@ Open `tableau/used_car_analysis_dashboard.twbx` with Tableau Desktop or Tableau 
 
 ## Author
 
-Pratham Patel, LinkedIn:- https://www.linkedin.com/in/pratham-patel-a00363413/, and GitHub:- .
+Pratham Patel, LinkedIn:- https://www.linkedin.com/in/pratham-patel-a00363413/, and GitHub:- https://github.com/prathampatel102005/used-car-data-science-project .
